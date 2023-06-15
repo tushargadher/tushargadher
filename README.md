@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Web Development<br>🔭 I’m currently exploring new technology and languages<br>🤝 I'm looking to work on projects with others. <br> 
+🌱 I’m currently working on MERN Stack <br>🔭 I’m currently exploring new technology and languages<br>🤝 I'm looking to work on projects with others. <br> 
 
 
 ## 🌐 Socials:
